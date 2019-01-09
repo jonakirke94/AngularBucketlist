@@ -1,3 +1,3 @@
 Simple Angular application
 
-See in browser: https://jonakirke94.github.io/AngularBucketlist/
+See in browser: https://jonakirke94.github.io/angularbucketlist/
